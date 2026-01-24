@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpendSmart</string>
+
+    <!-- Navigation Labels -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_add">Add Expense</string>
+    <string name="title_insights">Insights</string>
+
+    <!-- Form Labels -->
+    <string name="lbl_amount">Amount (KSh)</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_date">Date</string>
+
+    <!-- Action Buttons -->
+    <string name="btn_save">Save Expense</string>
+    <string name="btn_reset">Reset Form</string>
+
+    <!-- Placeholders -->
+    <string name="hint_amount">0.00</string>
+    <string name="budget_remaining">Remaining Budget</string>
+</resources>
