@@ -50,9 +50,9 @@ Financial literacy is a critical life skill. By providing a tool that offers rea
 ## 🛠️ Technologies Used
 
 * **Language:** Java
-* **IDE:** Android Studio (Koala/Ladybug)
+* **IDE:** Android Studio 
 * **Architecture:** Single Activity with Fragments & Navigation Component
-* **UI Framework:** Material Design 3 (Google)
+* **UI Framework:** Material Design 3 
 * **Database:** SQLite / Room Persistence Library
 
 ---
@@ -65,8 +65,3 @@ To clone this project and run it in Android Studio:
 git clone https://github.com/Shemira01/MADD-Project-2.git
 
 ```
-
-**Prepared by:** Shemiramoth Mugo (Technical Lead)
-
-
----
