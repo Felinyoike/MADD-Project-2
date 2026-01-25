@@ -26,6 +26,21 @@
     <string name="remaining_balance">Remaining Balance: $0.00</string>
     <string name="recent_transactions">Recent Transactions</string>
 
+    <!-- item_transaction -->
+    <string name="category_food">Food</string>
+    <string name="price">$25</string>
+    <string name="date">25 Jan</string>
+    <string name="percentage">45%</string>
+
+    <!-- Item category -->
+    <string name="category_name">Category Name</string>
+    <string name="category_percentage">0%</string>
+
+    <!-- Insights -->
+    <string name="no_transactions">No Transactions yet</string>
+
+
+
 
 
 

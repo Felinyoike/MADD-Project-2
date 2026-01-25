@@ -16,4 +16,7 @@
     <!-- Dashboard -->
     <color name="md_theme_light_primary">#6750A4</color>
 
+    <!-- Item category -->
+    <color name="md_theme_light_onBackground">#000000</color>
+
 </resources>
