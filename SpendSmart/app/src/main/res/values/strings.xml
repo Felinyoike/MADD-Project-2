@@ -18,4 +18,9 @@
     <!-- Placeholders -->
     <string name="hint_amount">0.00</string>
     <string name="budget_remaining">Remaining Budget</string>
+
+    <!-- Lee's -->
+    <string name="title_add_expense">Add Expense</string>
+
+
 </resources>
