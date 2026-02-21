@@ -46,10 +46,12 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+
+            android:entries="@array/categories"
+
             app:layout_constraintTop_toBottomOf="@id/etAmount_layout"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"/>
-
         <!-- Reset Button -->
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btnReset"
